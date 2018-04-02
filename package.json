@@ -14,7 +14,8 @@
     "@types/react-hyperscript": "^3.0.2",
     "react": "^16.3.0",
     "react-dom": "^16.3.0",
-    "react-hyperscript": "^3.2.0"
+    "react-hyperscript": "^3.2.0",
+    "tachyons": "^4.9.1"
   },
   "devDependencies": {
     "awesome-typescript-loader": "^4.0.1",

@@ -26,10 +26,10 @@ export class Hello extends React.Component<HelloProps, {name: string}> {
             ]),
             h("div", [
                 "Hello, ",
-                h("span", {style: {color: "green"}}, this.state.name),
+                h("span.green", this.state.name),
                 h("br"),
                 "Your name has",
-                h("strong", {style: {margin: "0.25rem"}}, this.state.name.length),
+                h("strong.ma1", this.state.name.length),
                 "characters in it."
             ]),
         ]);
