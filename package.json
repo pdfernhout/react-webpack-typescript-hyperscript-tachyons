@@ -1,12 +1,12 @@
 {
-  "name": "react-test",
+  "name": "react-webpack-typescript-hyperscript-tachyons",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Paul Fernhout",
   "license": "ISC",
   "dependencies": {
     "@types/react": "^16.3.1",
